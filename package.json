@@ -10,7 +10,7 @@
   "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
   "dependencies": {
     "lodash": "^3.6.0",
-    "simple-markdown": "git://github.com/lwansbrough/simple-markdown.git"
+    "simple-markdown": "git://github.com/lwansbrough/simple-markdown.git#12cb3782634faeec1b66a82c562bd3c86648878f"
   },
   "peerDependencies": {
     "react-native": "^0.26.0"
